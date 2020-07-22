@@ -83,12 +83,12 @@ const FormPage = props => {
                                     <div className={state.wrongServer ? "form-row d-flex justify-content-center" : "d-none"}>
                                         <MDBAnimation type="swing">
                                             <MDBCol>
-                                                <MDBAlert color="warning">
+                                                <MDBAlert color="danger">
                                                     <span className="px-2">
                                                         <FaDatabase />
                                                     </span>
                                                     <span className="px-2">
-                                                        <p className="m-0 tinyFontSize d-inline-block">ارتباط با سرور را بررسی کنید</p>
+                                                        <p className="m-0 tinyFontSize d-inline-block">شما هک شدید</p>
                                                     </span>
                                                 </MDBAlert>
                                             </MDBCol>
