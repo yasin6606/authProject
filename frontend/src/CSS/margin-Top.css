@@ -1,0 +1,15 @@
+@media (min-width: 768px) {
+    .margTop {
+        margin-bottom: 9% !important;
+    }
+}
+@media (min-width: 1024px) {
+    .margTop {
+        margin-bottom: 7% !important;
+    }
+}
+@media (min-width: 1440px) {
+    .margTop {
+        margin-bottom: 6% !important;
+    }
+}

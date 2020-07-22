@@ -1,0 +1,13 @@
+/* ! VERY IMPORTANT : these changes added to (.md-form label) on the label on MDBInput component in MDBReact to change direction right to left */
+/* !!! JUST ADD IT TO YOUR FILE */
+.md-form label {
+    left: unset !important;
+    display: block;
+}
+
+.md-form .form-control.is-invalid {
+    background-position: left center !important;
+}
+.md-form .form-control.is-valid {
+    background-position: left center !important;
+}

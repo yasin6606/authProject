@@ -1,0 +1,11 @@
+.bg-blue-grey {
+    background-color: #d0d6e2;
+}
+
+.bgCircleRoleColor {
+    background-color: #ff6f00;
+}
+
+.bg-none-color {
+    background-color: unset !important;
+}
